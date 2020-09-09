@@ -133,6 +133,7 @@ def main():
     print ("3   Multipication")
     print ("4   Division")
     print ("5   Binary Conversion")
+    print ("Q   To Go Back")
 
     quizType = input(":")
 
